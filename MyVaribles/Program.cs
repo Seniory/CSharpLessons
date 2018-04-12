@@ -10,7 +10,8 @@ namespace MyVaribles
     {
         static void Main(string[] args)
         {
-        
+
+            // this is to try
             int myvalue = 10;
             Console.WriteLine("{0}", myvalue);
             Console.ReadKey();
